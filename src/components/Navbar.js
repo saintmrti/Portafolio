@@ -62,28 +62,28 @@ const Navbar = () => {
           {/* social icons */}
           <div className="lg:flex flex fixed flex-col top-[35%] left-0">
               <ul>
-                  <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://ar.linkedin.com/in/matiasmilito">
+                  <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-800">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://www.linkedin.com/in/saintmartin/">
                           LinkedIn <FaLinkedin size={30}/>
                       </a>
                   </li>
-                  <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
+                  <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500">
                       <a className="flex justify-between items-center w-full text-gray-300" href="/">
                           Mail <FaMailBulk size={30}/>
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/matiasmilito">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/saintmrti">
                           GitHub <FaGithub size={30}/>
                       </a>
                   </li>
-                  <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-900">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://wa.me/543412553267">
+                  <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-500">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://wa.me/2288548416">
                           WhatsApp <FaWhatsapp size={30}/>
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://drive.google.com/file/d/1WRK19h8IjlKG28CVjT0rKixYh3eBAk9u/view?usp=sharing">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://drive.google.com/file/d/1Z5XvwB-8H208EO6T168EGyeLNNN3dGrj/view?usp=sharing" target="_blank" rel="noreferrer">
                           Curriculum <BsFillPersonLinesFill size={30}/>
                       </a>
                   </li>
