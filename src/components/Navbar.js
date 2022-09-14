@@ -63,7 +63,7 @@ const Navbar = () => {
           <div className="lg:flex flex fixed flex-col top-[35%] left-0">
               <ul>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-800">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://www.linkedin.com/in/saintmartin/">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://www.linkedin.com/in/saintmartin/" target="_blank" rel="noreferrer">
                           LinkedIn <FaLinkedin size={30}/>
                       </a>
                   </li>
@@ -73,12 +73,12 @@ const Navbar = () => {
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/saintmrti">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/saintmrti" target="_blank" rel="noreferrer">
                           GitHub <FaGithub size={30}/>
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-500">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://wa.me/2288548416">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://wa.me/2288548416" target="_blank" rel="noreferrer">
                           WhatsApp <FaWhatsapp size={30}/>
                       </a>
                   </li>
