@@ -1,5 +1,5 @@
 {
-  "homepage": "https://saintmrti.github.io/ProyectoPortafolio",
+  "homepage": "http://saintmrti.com",
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "web-vitals": "^3.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build && echo saintmrti.com > ./build/CNAME",
+    "predeploy": "npm run build && echo saintmrti.com> ./build/CNAME",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
