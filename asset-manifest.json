@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ProyectoPortafolio/static/css/main.9c080398.css",
-    "main.js": "/ProyectoPortafolio/static/js/main.f3f4a94c.js",
-    "static/media/tulipanes.jpg": "/ProyectoPortafolio/static/media/tulipanes.71f9c1873596e6c5b07e.jpg",
-    "static/media/plantatermica.jpg": "/ProyectoPortafolio/static/media/plantatermica.8a4765839cc40bae33c3.jpg",
-    "static/media/gymbros.jpg": "/ProyectoPortafolio/static/media/gymbros.2493f308b78a54355e3e.jpg",
-    "static/media/ecommerce.jpg": "/ProyectoPortafolio/static/media/ecommerce.c969c577a9c3a2f6e54e.jpg",
-    "static/media/akimera.jpg": "/ProyectoPortafolio/static/media/akimera.c0fad87f26c169ccb920.jpg",
-    "static/media/react.png": "/ProyectoPortafolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/bootstrap.png": "/ProyectoPortafolio/static/media/bootstrap.e017cc88a9659f61dc60.png",
-    "static/media/github.png": "/ProyectoPortafolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/ProyectoPortafolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/ProyectoPortafolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/ProyectoPortafolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/logo.png": "/ProyectoPortafolio/static/media/logo.ebedefe62501633a74a1.png",
-    "static/media/javascript.png": "/ProyectoPortafolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/ProyectoPortafolio/index.html",
-    "main.9c080398.css.map": "/ProyectoPortafolio/static/css/main.9c080398.css.map",
-    "main.f3f4a94c.js.map": "/ProyectoPortafolio/static/js/main.f3f4a94c.js.map"
+    "main.css": "/saintmrti/ProyectoPortafolio/static/css/main.9c080398.css",
+    "main.js": "/saintmrti/ProyectoPortafolio/static/js/main.b2954aba.js",
+    "static/media/tulipanes.jpg": "/saintmrti/ProyectoPortafolio/static/media/tulipanes.71f9c1873596e6c5b07e.jpg",
+    "static/media/plantatermica.jpg": "/saintmrti/ProyectoPortafolio/static/media/plantatermica.8a4765839cc40bae33c3.jpg",
+    "static/media/gymbros.jpg": "/saintmrti/ProyectoPortafolio/static/media/gymbros.2493f308b78a54355e3e.jpg",
+    "static/media/ecommerce.jpg": "/saintmrti/ProyectoPortafolio/static/media/ecommerce.c969c577a9c3a2f6e54e.jpg",
+    "static/media/akimera.jpg": "/saintmrti/ProyectoPortafolio/static/media/akimera.c0fad87f26c169ccb920.jpg",
+    "static/media/react.png": "/saintmrti/ProyectoPortafolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/bootstrap.png": "/saintmrti/ProyectoPortafolio/static/media/bootstrap.e017cc88a9659f61dc60.png",
+    "static/media/github.png": "/saintmrti/ProyectoPortafolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/saintmrti/ProyectoPortafolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/saintmrti/ProyectoPortafolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/saintmrti/ProyectoPortafolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo.png": "/saintmrti/ProyectoPortafolio/static/media/logo.ebedefe62501633a74a1.png",
+    "static/media/javascript.png": "/saintmrti/ProyectoPortafolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/saintmrti/ProyectoPortafolio/index.html",
+    "main.9c080398.css.map": "/saintmrti/ProyectoPortafolio/static/css/main.9c080398.css.map",
+    "main.b2954aba.js.map": "/saintmrti/ProyectoPortafolio/static/js/main.b2954aba.js.map"
   },
   "entrypoints": [
     "static/css/main.9c080398.css",
-    "static/js/main.f3f4a94c.js"
+    "static/js/main.b2954aba.js"
   ]
 }
