@@ -3,6 +3,7 @@ import Akimera from "../assets/akimera.jpg"
 import Tulipanes from "../assets/tulipanes.jpg"
 import GymBros from "../assets/gymbros.jpg"
 import Ecommerce from "../assets/ecommerce.jpg"
+import PlantaTermica from "../assets/plantatermica.jpg"
 
 const Work = () => {
     return (
@@ -83,6 +84,24 @@ const Work = () => {
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                                 </a>
                                 <a href="https://github.com/saintmrti/ProyectoTulipanes.git" target="_blank" rel="noreferrer">
+                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div style={{backgroundImage: `url(${PlantaTermica})`}}
+                         className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+                        {/* Hover effect */}
+                        <div className="opacity-0 group-hover:opacity-100">
+                            <span className="text-2xl font-bold text-white tracking-wider">
+                                C# Application
+                            </span>
+                            <div className="pt-8 text-center">
+                                <a href="https://drive.google.com/file/d/1YBsx33iluyKLvCF2GskXnlq6va6FqTlq/view?usp=sharing" target="_blank" rel="noreferrer">
+                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+                                </a>
+                                <a href="https://github.com/saintmrti/ProyectoPlantaTerminca.git" target="_blank" rel="noreferrer">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>

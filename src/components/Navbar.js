@@ -70,7 +70,7 @@ const Navbar = () => {
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center lg:ml-[-100px] ml-[-120px] hover:ml-[-10px] duration-300 bg-blue-500">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="mailto:saint-martin_10@hotmail.com?body=Hola,%20Saint">
                           Mail <FaMailBulk className="lg:w-[30px] lg:h-[30px] w-[15px] h-[15px]"/>
                       </a>
                   </li>
