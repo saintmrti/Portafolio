@@ -7,6 +7,10 @@ import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Sass from '../assets/sass.png';
 import BootStrap from '../assets/bootstrap.png';
+import NodeJs from '../assets/node.png';
+import MySQL from '../assets/mysql.png';
+import Azure from '../assets/azure.png';
+import CSharp from '../assets/c-sharp.png';
 
 const Skills = () => {
     return (
@@ -28,27 +32,43 @@ const Skills = () => {
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={JavaScript} alt="HTML icon"/>
-                        <p className="my-4">JAVASCRIPT</p>
+                        <p className="my-4">JavaScript</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={ReactImg} alt="HTML icon"/>
-                        <p className="my-4">REACT JS</p>
+                        <p className="my-4">React Js</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon"/>
-                        <p className="my-4">TAILWIND CSS</p>
+                        <p className="my-4">Tailwind</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={GitHub} alt="HTML icon"/>
-                        <p className="my-4">GITHUB</p>
+                        <p className="my-4">GitHub</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={Sass} alt="Sass icon"/>
-                        <p className="my-4">SASS</p>
+                        <p className="my-4">SaSS</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={BootStrap} alt="HTML icon"/>
                         <p className="my-4">BootStrap</p>
+                    </div>
+                    <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                        <img className="w-20 mx-auto" src={NodeJs} alt="HTML icon"/>
+                        <p className="my-4">Node Js</p>
+                    </div>
+                    <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                        <img className="w-20 mx-auto" src={MySQL} alt="HTML icon"/>
+                        <p className="my-4">MySQL</p>
+                    </div>
+                    <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                        <img className="w-20 mx-auto" src={Azure} alt="HTML icon"/>
+                        <p className="my-4">Microsoft Azure</p>
+                    </div>
+                    <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                        <img className="w-20 mx-auto" src={CSharp} alt="HTML icon"/>
+                        <p className="my-4">C#</p>
                     </div>
                 </div>
             </div>

@@ -85,7 +85,7 @@ const Navbar = () => {
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center lg:ml-[-100px] ml-[-120px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="https://drive.google.com/file/d/1Z5XvwB-8H208EO6T168EGyeLNNN3dGrj/view?usp=sharing" target="_blank" rel="noreferrer">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://drive.google.com/file/d/1m3yEkoSnC9Ieh5xltfMA4g9MGLtCmokf/view?usp=sharing" target="_blank" rel="noreferrer">
                           Curriculum <BsFillPersonLinesFill className="lg:w-[30px] lg:h-[30px] w-[15px] h-[15px]"/>
                       </a>
                   </li>
