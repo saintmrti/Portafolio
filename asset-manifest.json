@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c080398.css",
-    "main.js": "/static/js/main.aa40ed20.js",
+    "main.css": "/static/css/main.5ca255e3.css",
+    "main.js": "/static/js/main.df09b9d7.js",
     "static/media/tulipanes.jpg": "/static/media/tulipanes.71f9c1873596e6c5b07e.jpg",
     "static/media/gymbros.jpg": "/static/media/gymbros.2493f308b78a54355e3e.jpg",
     "static/media/ecommerce.jpg": "/static/media/ecommerce.c969c577a9c3a2f6e54e.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/static/media/logo.ebedefe62501633a74a1.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.9c080398.css.map": "/static/css/main.9c080398.css.map",
-    "main.aa40ed20.js.map": "/static/js/main.aa40ed20.js.map"
+    "main.5ca255e3.css.map": "/static/css/main.5ca255e3.css.map",
+    "main.df09b9d7.js.map": "/static/js/main.df09b9d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c080398.css",
-    "static/js/main.aa40ed20.js"
+    "static/css/main.5ca255e3.css",
+    "static/js/main.df09b9d7.js"
   ]
 }
