@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.5ca255e3.css",
-    "main.js": "/static/js/main.df09b9d7.js",
-    "static/media/tulipanes.jpg": "/static/media/tulipanes.71f9c1873596e6c5b07e.jpg",
+    "main.js": "/static/js/main.ac8f1823.js",
+    "static/media/viakable.png": "/static/media/viakable.66a6b0ad3d5f8a8f5e71.png",
+    "static/media/readiness.png": "/static/media/readiness.1ffa6c85f51a0e9a65c9.png",
     "static/media/gymbros.jpg": "/static/media/gymbros.2493f308b78a54355e3e.jpg",
-    "static/media/ecommerce.jpg": "/static/media/ecommerce.c969c577a9c3a2f6e54e.jpg",
     "static/media/akimera.jpg": "/static/media/akimera.c0fad87f26c169ccb920.jpg",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.5ca255e3.css.map": "/static/css/main.5ca255e3.css.map",
-    "main.df09b9d7.js.map": "/static/js/main.df09b9d7.js.map"
+    "main.ac8f1823.js.map": "/static/js/main.ac8f1823.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca255e3.css",
-    "static/js/main.df09b9d7.js"
+    "static/js/main.ac8f1823.js"
   ]
 }
