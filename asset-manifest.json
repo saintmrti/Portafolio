@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5ca255e3.css",
-    "main.js": "/static/js/main.ac8f1823.js",
+    "main.js": "/static/js/main.3937b00c.js",
     "static/media/viakable.png": "/static/media/viakable.66a6b0ad3d5f8a8f5e71.png",
     "static/media/readiness.png": "/static/media/readiness.1ffa6c85f51a0e9a65c9.png",
     "static/media/gymbros.jpg": "/static/media/gymbros.2493f308b78a54355e3e.jpg",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.5ca255e3.css.map": "/static/css/main.5ca255e3.css.map",
-    "main.ac8f1823.js.map": "/static/js/main.ac8f1823.js.map"
+    "main.3937b00c.js.map": "/static/js/main.3937b00c.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca255e3.css",
-    "static/js/main.ac8f1823.js"
+    "static/js/main.3937b00c.js"
   ]
 }
